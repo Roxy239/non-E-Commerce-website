@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Nominies for Making a Top writers Organization
+Open [Nominies for Making a Top writers Organization](https://nifty-sinoussi-ecea06.netlify.app/) to view it in the browser.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
