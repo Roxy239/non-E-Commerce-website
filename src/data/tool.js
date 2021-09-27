@@ -1,6 +1,7 @@
 const tool = [
 
     {
+        key: 1,
         Name: 'Sarah J Mas',
         Age: 31,
         Country: 'USA',
@@ -10,6 +11,7 @@ const tool = [
     },
 
     {
+        key: 2,
         Name: 'Arundhati Roy',
         Age: 91,
         Country: 'India',
@@ -19,6 +21,7 @@ const tool = [
     },
 
     {
+        key: 3,
         Name: 'Chimamanda Ngozi',
         Age: 41,
         Country: 'USA',
@@ -29,6 +32,7 @@ const tool = [
 
 
     {
+        key: 4,
         Name: 'J. K Rowling',
         Age: 51,
         Country: 'UK',
@@ -38,6 +42,7 @@ const tool = [
     },
 
     {
+        key: 5,
         Name: 'Margaret Eleanor',
         Age: 54,
         Country: 'UAE',
@@ -47,6 +52,7 @@ const tool = [
     },
 
     {
+        key: 6,
         Name: 'Alice Walker',
         Age: 55,
         Country: 'USA',

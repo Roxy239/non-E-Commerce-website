@@ -1,5 +1,6 @@
 [
     {
+        "key": 1,
         "Name": "Sarah J Mas",
         "Age": 31,
         "Country": "USA",
@@ -8,6 +9,7 @@
         "img": "https://pbs.twimg.com/profile_images/465177286/DSC_0273-1_400x400.jpg"
     },
     {
+        "key": 2,
         "Name": "Arundhati Roy",
         "Age": 91,
         "Country": "India",
@@ -16,6 +18,7 @@
         "img": "https://aperture.org/wp-content/uploads/2021/06/243MAG327_Roy-Shah-HR.jpg"
     },
     {
+        "key": 3,
         "Name": "Chimamanda Ngozi",
         "Age": 41,
         "Country": "USA",
@@ -24,6 +27,7 @@
         "img": "https://pyxis.nymag.com/v1/imgs/1d1/f6b/d6f89e73cc601a0f1c87ae2a2dfee3b3d3-02-chimamanda-2.rvertical.w1200.jpg"
     },
     {
+        "key": 4,
         "Name": "J. K Rowling",
         "Age": 51,
         "Country": "UK",
@@ -32,6 +36,7 @@
         "img": "https://pyxis.nymag.com/v1/imgs/4cb/77a/adc567779411beadc50eaab68b8fccbd78-7-jkrowling.rsquare.w700.jpg"
     },
     {
+        "key": 5,
         "Name": "Margaret Eleanor",
         "Age": 54,
         "Country": "UAE",
@@ -40,6 +45,7 @@
         "img": "https://www.thefamouspeople.com/profiles/images/margaret-atwood-6.jpg"
     },
     {
+        "key": 6,
         "Name": "Alice Walker",
         "Age": 55,
         "Country": "USA",

@@ -10,7 +10,8 @@ const Cart = (props) => {
         total = total + writer.Salary;
     }
     for (const writer of cart) {
-        writername = writername + writer.Name;
+        writername = writername + writer.Name + "," + "\n";
+
     }
     return (
         <div>

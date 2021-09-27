@@ -32,7 +32,7 @@ const Nominies = () => {
 
                 {
                     writers.map(writer => <Writerdetails
-                        key={writer.name}
+                        key={writer.key}
                         writer={writer}
                         handleAdd={handleAdd}
                     >
