@@ -1,22 +1,19 @@
 import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { useEffect } from 'react';
+
+
 import Header from './components/Header/header';
 import Nominies from './components/Nominies/Nominies';
 
 function App() {
 
-  useEffect(() => {
-    fetch('./tool.JSON')
-      .then(res => res.json())
-      .then(data => console.log(data));
-  }, [])
-
 
   return (
-    <div className="App">
+    <div >
       <Header></Header>
       <Nominies></Nominies>
+
     </div>
   );
 }

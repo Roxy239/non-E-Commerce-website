@@ -2,3 +2,8 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
+.writer-container{
+    border-right: 1px;
+    margin-right:5px;
+    margin-left: 20px;
+}
