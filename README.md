@@ -1,5 +1,5 @@
-# Nominies for Making a Top writers Organization
-Open [Nominies for Making a Top writers Organization](https://nifty-sinoussi-ecea06.netlify.app/) to view it in the browser.
+# Nominees for Making a Top writers Organization
+Open [Nominees for Making a Top writers Organization](https://nifty-sinoussi-ecea06.netlify.app/) to view it in the browser.
 
 
 ## Available Scripts
