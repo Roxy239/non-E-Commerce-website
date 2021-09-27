@@ -16,9 +16,9 @@ const Cart = (props) => {
     return (
         <div>
             <h3>Selected top writers</h3>
-            <h5>player added:{props.cart.length}</h5>
+            <h5>Writer added:{props.cart.length}</h5>
             <h5>Total Cost: ${total}</h5>
-            <h5> hired: {writername}</h5>
+            <h5>Hired: {writername}</h5>
         </div>
     );
 };
